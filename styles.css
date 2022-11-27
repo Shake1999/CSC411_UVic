@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .viz {
@@ -12,6 +13,7 @@ h1 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 .selection {
